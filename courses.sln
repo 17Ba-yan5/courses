@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "courses", "courses\courses.csproj", "{6997CE6A-DD11-4979-8DAE-6B6B668C8883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dectors", "Dectors\Dectors.csproj", "{6B010DC3-CEE1-4160-97CA-C84189D24AA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6997CE6A-DD11-4979-8DAE-6B6B668C8883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6997CE6A-DD11-4979-8DAE-6B6B668C8883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6997CE6A-DD11-4979-8DAE-6B6B668C8883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6997CE6A-DD11-4979-8DAE-6B6B668C8883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B010DC3-CEE1-4160-97CA-C84189D24AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B010DC3-CEE1-4160-97CA-C84189D24AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B010DC3-CEE1-4160-97CA-C84189D24AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B010DC3-CEE1-4160-97CA-C84189D24AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A419CF-910D-4654-9DFC-63D583703F6B}
+	EndGlobalSection
+EndGlobal
